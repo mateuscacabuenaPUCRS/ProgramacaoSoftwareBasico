@@ -1,3 +1,8 @@
+/* Exercicio005.c
+Autor: Mateus Caçabuena
+Finalidade: Contar e mostrar quantos bits 0 há à direita do bit 1 mais significativo de um número inteiro.
+Data: 08/05/2025 */
+
 #include <stdio.h>
 
 int main() {

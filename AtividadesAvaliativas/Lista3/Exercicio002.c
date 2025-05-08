@@ -1,3 +1,8 @@
+/* Exercicio002.c
+Autor: Mateus Caçabuena
+Finalidade: Ler intensidades de verde, vermelho e azul e gerar o valor correspondente na paleta fixa de 256 cores.
+Data: 08/05/2025 */
+
 #include <stdio.h>
 
 int main() {
